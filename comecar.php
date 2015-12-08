@@ -11,10 +11,13 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 </head>
 <body>
-  Eu sei que você não gosta de praia, mas sei que gosta de lugares perto do mato. Gosta de aventura e adora desafios de pensar.
-  Mas como eu quero te dar algo que seja legal vc descobrir vc terá que decifrar o código a seguir.
-
-  QWNob3UgcXVlIGVyYSBmw6FjaWwgbsOpPw0KYSBwcsOzeGltYSBww6FnaW5hIMOpOyBwYWdpbmEzLnBocA0KZGlnaXRlIGVzc2UgdmFsb3IgbmEgdXJsIHBhcmEgcHJvc3NlZ3VpciBubyBzZXJ2aWRvcg==
-
+  <div class="container">
+    <h1>Início</h1>
+    <h2>
+      Eu sei que você não gosta de praia, mas sei que gosta de aventura e adora desafios de raciocínio.<br>
+      Então como eu quero te dar algo que seja legal você tenha descobrir decifrando o código a seguir.
+    </h2>
+    <h3>QWNob3UgcXVlIGVyYSBmw6FjaWwgbsOpPw0KYSBwcsOzeGltYSBww6FnaW5hIMOpOyBwYWdpbmEzLnBocA0KZGlnaXRlIGVzc2UgdmFsb3IgbmEgdXJsIHBhcmEgcHJvc3NlZ3VpciBubyBzZXJ2aWRvcg==</h3>
+  </div>
 </body>
 </html>

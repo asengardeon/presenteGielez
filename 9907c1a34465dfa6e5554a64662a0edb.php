@@ -1,6 +1,9 @@
 
 <html>
 <meta charset="UTF-8">
+<Title>
+Vôo Duplo
+</title>
 <head>
   <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -12,9 +15,16 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 </head>
 <body>
-
-  Não vou enrolar muito então tem somente mais esse próximo código para saber a url do presente. Prometo. =)
-
-  QSBwYWdpbmEgY29tIG8gbm9tZSBkbyB0ZXUgcHJlc2VudGUgw6kgdW0gbWQ1IGRlOg0KIk8gdGV1IHByZXNlbnRlIMOpIC4uLiINCg0KU2VtIGFzIGFzcGFzID0p
+  <div class="container">
+  <h1>PARABÉNS AMOR VOCÊ CONSEGUIU!!!!</h1>
+  <h2>
+      Você foi contemplado com um brinde oferecido pela SCFLY Adventure. A SCFLY através deste, confere e garante ao seu portador, um voo duplo de parapente em caráter de instrução com cobertura total de fotos e filmagens de toda sua aventura.<br>
+      O serviço contempla:<br>
+      1.	Resgate da área de pouso até a decolagem do sorteado.<br>
+      2.	Um voo duplo de parapente em caráter de instrução.<br>
+      3.	Registre em foto e filmagem do seu voo duplo.<br>
+  </h3>
+  O Documento completo está em: <a href="ScFly_Carta_Brinde.docx">LINK</a>
+  </div>
 </body>
 </html>
