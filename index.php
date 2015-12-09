@@ -15,8 +15,11 @@
 </head>
 <body class="body-fundo1">
 <div class="container centered limit-text" align="center">
-  <h1>Este é um desafio.</h1>
   <br>
+  <br>
+  <h1>Este é um desafio.</h1>
+
+  <h2>Gielez, desenvolvi esta página para você receber teu presente de NATAL</h2>
   <h2>Para descobrir o presente precisas decifrar o código para saber o link da próxima página.</h2>
   <form action="comecar.php">
     <button type="submit" class="btn btn-lg btn-success">Começar</button>
