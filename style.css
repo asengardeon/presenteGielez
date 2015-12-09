@@ -1,0 +1,23 @@
+.atencao{
+  color: red;
+}
+
+.body-fundo1 {
+    background-image: url("images/index");
+    background-color: #000000;
+    background-size: 100%;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+
+}
+
+.limit-text{
+  max-height: 50%;
+   max-width: 50%;
+}
